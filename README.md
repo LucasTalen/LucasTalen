@@ -53,7 +53,7 @@ Aqui estão algumas das ferramentas e tecnologias que utilizo no meu dia a dia:
 
 ### 🤝 Vamos Conectar!
 
-Estou sempre aberto a novas oportunidades e colaborações. Sinta-se à vontade para me contatar!
+
 
 *   **GitHub:** [LucasTalen](https://github.com/LucasTalen)
 *   **LinkedIn:** [Lucas de Paula Soares](https://www.linkedin.com/in/lucas-de-paula-soares/)
